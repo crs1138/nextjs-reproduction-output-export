@@ -1,0 +1,48 @@
+{
+  "sections": [
+    {
+      "__typename": "Section",
+      "id": "RyEePHX95",
+      "title": "header section",
+      "background": "dark",
+      "width": "full",
+      "direction": "row",
+      "textAlign": "center",
+      "name": null,
+      "langKey": "en"
+    },
+    {
+      "__typename": "Section",
+      "id": "dPPA31pi7",
+      "title": "navbar section",
+      "background": "medium",
+      "width": "full",
+      "direction": "row",
+      "textAlign": "center",
+      "name": null,
+      "langKey": "en"
+    },
+    {
+      "__typename": "Section",
+      "id": "err2zcyac",
+      "title": "FAQ - Section Accordion",
+      "background": "light",
+      "width": "container",
+      "direction": "column",
+      "textAlign": "center",
+      "name": null,
+      "langKey": "en"
+    },
+    {
+      "__typename": "Section",
+      "id": "l4FvunnkV",
+      "title": "section footer",
+      "background": "dark",
+      "width": "containerNoPadding",
+      "direction": "column",
+      "textAlign": "center",
+      "name": null,
+      "langKey": "en"
+    }
+  ]
+}
